@@ -16,7 +16,7 @@ cURL(default), PHP's stream wrapper, sockets etc.
 - Used exception for handling errors.
 
 
-Justifications (TODOs)
+What next? (TODOs)
 ===========
 
 - Unit testing 
