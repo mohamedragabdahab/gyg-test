@@ -4,12 +4,14 @@ instructions
  - Install PHP 5.5.9
  - Composer https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
  - Lumen framework https://lumen.laravel.com/docs/5.6#installation 
-##Example
-###Request
+
+#####Request
+
 ```
 php artisan product:list http://www.mocky.io/v2/58ff37f2110000070cf5ff16 2017-11-20T09:30 2017-11-23T19:30 3
 ```
-### Response 
+
+##### Response 
 
 ```
 [  
