@@ -1,0 +1,14 @@
+/vendor
+/storage
+/log
+
+composer
+composer.phar
+
+.phpstorm.meta.php
+.env
+.idea/
+.DS_Store
+.tmp
+/nbproject/
+
